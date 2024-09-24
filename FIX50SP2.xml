@@ -5595,7 +5595,7 @@
    <value enum='8' description='EXCHANGE_SYMBOL' />
    <value enum='9' description='CONSOLIDATED_TAPE_ASSOCIATION' />
    <value enum='403' description='BLOOMBERG_CUSTOM_IDENTIFIER_FOR_TBA_OUTRIGHT' />
-   <value enum='404' description='BLOOMBERG_CUSTOM_IDENTIFIER_FOR_TBA_ROLL,SWITCH_OR_BUTTERFLY' />
+   <value enum='404' description='BLOOMBERG_CUSTOM_IDENTIFIER_FOR_TBA_ROLL_SWITCH_OR_BUTTERFLY' />
    <value enum='A' description='BLOOMBERG_SYMBOL' />
    <value enum='B' description='WERTPAPIER' />
    <value enum='C' description='DUTCH' />

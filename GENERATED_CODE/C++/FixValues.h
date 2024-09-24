@@ -1311,7 +1311,7 @@ namespace FIX
   const char SecurityIDSource_LETTER_OF_CREDIT[] = "L";
   const char SecurityIDSource_MARKETPLACE_ASSIGNED_IDENTIFIER[] = "M";
   const char SecurityIDSource_BLOOMBERG_CUSTOM_IDENTIFIER_FOR_TBA_OUTRIGHT[] = "403";
-  const char SecurityIDSource_BLOOMBERG_CUSTOM_IDENTIFIER_FOR_TBA_ROLL,SWITCH_OR_BUTTERFLY[] = "404";
+  const char SecurityIDSource_BLOOMBERG_CUSTOM_IDENTIFIER_FOR_TBA_ROLL_SWITCH_OR_BUTTERFLY[] = "404";
   const char SecurityIDSource_ISDA_FPML_PRODUCT_SPECIFICATION[] = "I";
   const char SecurityIDSource_ISDA_FPML_PRODUCT_URL[] = "K";
   const char IOIQty_LARGE[] = "L";
